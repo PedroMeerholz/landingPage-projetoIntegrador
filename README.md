@@ -1,4 +1,4 @@
-# landingPage-projetoIntegrador
+# Landing Page - Projeto Integrador
 
 <p>Landing page criada para o Projeto Integrador do 2° Semestre da graduação de Análise e Desenvolvimento de Sistemas</p>
 
